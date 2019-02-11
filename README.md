@@ -44,7 +44,7 @@
   [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
   [中文版](http://noahsnail.com/2017/08/02/2017-8-2-YOLO%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
 
-  [中英文对照-test](./yoloV1/YOLO论文翻译——中英文对照 _ SnailTyan.html)
+  [中英文对照](https://github.com/JiaShengLiu111/deep-learning-papers-translation/blob/master/yoloV1/YOLO%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7%20_%20SnailTyan.html)
 
 * SSD  
   [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
