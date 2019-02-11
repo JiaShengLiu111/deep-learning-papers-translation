@@ -43,9 +43,8 @@
 * YOLO   
   [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
   [中文版](http://noahsnail.com/2017/08/02/2017-8-2-YOLO%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/)
-  [中英文对照]([https://htmlpreview.github.io/?](https://github.com/ruanyf/jstraining/blob/master/demos/backbone-demo/index.html))
 
-  [中英文对照-test](https://github.com/ruanyf/jstraining/blob/master/demos/backbone-demo/index.html)
+  [中英文对照-test](./yoloV1/YOLO论文翻译——中英文对照 _ SnailTyan.html)
 
 * SSD  
   [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
