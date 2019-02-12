@@ -42,7 +42,7 @@
 
 * YOLO   
   [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
-  [中文版](http://noahsnail.com/2017/08/02/2017-8-2-YOLO%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/) [中英对照](www.baidu.com)
+  [中文版](http://noahsnail.com/2017/08/02/2017-8-2-YOLO%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E6%96%87%E7%89%88/) 
 
   [中英文对照](https://htmlpreview.github.io/?https://github.com/JiaShengLiu111/deep-learning-papers-translation/blob/master/yoloV1/YOLO%E8%AE%BA%E6%96%87%E7%BF%BB%E8%AF%91%E2%80%94%E2%80%94%E4%B8%AD%E8%8B%B1%E6%96%87%E5%AF%B9%E7%85%A7%20_%20SnailTyan.html)
 
@@ -91,20 +91,8 @@
 ## Mobile
 
 * MobileNetV2  
-To be added.
+  To be added.
 
-<!--
+## 参考网址
 
-## Reward
-
-Will anyone find this?
-
-* Wechat  
-
-<img width="275" alt="微信" src="https://user-images.githubusercontent.com/21311442/44447671-7a3dd300-a61b-11e8-88cb-d815acb67c5e.png"> 
-
-* Alipay  
-
-<img width="275" alt="支付宝" src="https://user-images.githubusercontent.com/21311442/44447780-cee14e00-a61b-11e8-8538-70398f84c53a.png">
-
--->
+[预览 GitHub 项目里的html文件](https://blog.csdn.net/dknightl/article/details/79992681)
